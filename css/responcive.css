@@ -1,0 +1,141 @@
+@media ( max-width:1400px){
+    .main-div {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        box-sizing: border-box;
+    }
+    .text-item {
+        text-align: left;
+        color: #555555;
+        margin-top: 17px;
+    }
+
+}
+@media (max-width:1285px){
+    .tex p {
+        font-size: 11px;
+    }
+}
+   
+
+
+
+@media ( max-width:900px){
+    .banner-btn {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    .banner-caption h3 {
+     
+        font-size: 18px;
+      
+    }
+    .banner-caption h1 {
+    
+        font-size: 46px;
+    }
+   
+
+}
+ 
+@media (max-width:843px){
+    .service-item p {
+        
+        font-size: 10px;
+    }
+    .service-item h3 {
+        font-size: 11px;
+    }
+  
+}
+
+@media ( max-width:634px){
+    .logo {
+        text-align: center;
+        width: 100%;
+        
+    }
+    .praimary-menu {
+        
+        width: 100%;
+        text-align: center;
+    }
+    .praimary-menu ul {
+        
+        text-align: center;
+    }
+    .banner-caption h1 {
+        font-size: 36px;
+    }
+    .banner-caption h3 {
+        font-size: 17px;
+    }
+    .service-item {
+        width: 100%;
+       
+    }
+   
+    .service-item-f {
+        width: 100%;
+       
+    }
+    .service-item h3 {
+        
+        font-size: 14px;
+      
+    }
+    .service-item p {
+        
+        font-size: 12px;
+    }
+   
+}
+@media ( max-width:821px){
+
+    .banner-img {
+        width: 100%;
+        
+        margin-left: 0;
+        margin-top: 20px;
+    }
+   
+    
+    .banner-content {
+        
+        width: 100%;
+       
+    }
+    .text-item {
+        text-align: center;
+        
+    }
+    
+
+} 
+@media ( max-width:447px){
+    .praimary-menu ul li {
+ 
+        padding: 0 11px;
+    }
+    .banner-caption h1 {
+        font-size: 16px;
+    }
+    .banner-caption h3 {
+        font-size: 13px;
+    }
+    .banner-btn {
+        font-size: 6px;
+        margin-top: 15px;
+    }
+    .praimary-menu ul li {
+        
+        padding: 0px 3px;
+    }
+    .icon-item ul li {
+       
+        margin-right: 0;
+    }
+}
